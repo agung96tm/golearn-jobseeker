@@ -2,8 +2,8 @@ Golang - Job Seeker
 ============================
 
 ## Data Structures
-* [Single Linked List](https://github.com/agung96tm/golearn-jobseeker/tree/main/000-data-structures/000-single-linked-list/README.md)
-* [Doubly Linked List](https://github.com/agung96tm/golearn-jobseeker/blob/main/000-data-structures/001-doubly-linked-list/README.md)
+* [Single Linked List](https://github.com/agung96tm/golearn-jobseeker/tree/main/000-data-structures/000-single-linked-list)
+* [Doubly Linked List](https://github.com/agung96tm/golearn-jobseeker/blob/main/000-data-structures/001-doubly-linked-list)
 * Circular Linked List
 * Stack
 * Queue
@@ -16,4 +16,6 @@ Golang - Job Seeker
 
 
 ## References
-_wip_
+
+### Ebook
+* Golang for Jobseekers: Unleash the power of Go programming for career advancement 
