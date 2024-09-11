@@ -10,7 +10,7 @@ Golang - Job Seeker
 * [Stack](https://github.com/agung96tm/golearn-jobseeker/blob/main/000-data-structures/003-stack)
 * [Queue](https://github.com/agung96tm/golearn-jobseeker/blob/main/000-data-structures/004-queue)
 * [Binary Tree](https://github.com/agung96tm/golearn-jobseeker/blob/main/000-data-structures/005-binary-tree)
-* Hashing
+* [Hashing](https://github.com/agung96tm/golearn-jobseeker/blob/main/000-data-structures/006-hashing)
 
 
 ## Contributors
