@@ -1,5 +1,6 @@
-Golang - Job Seeker
+Golearn - Job Seeker
 ============================
+All essential Topics to enhance our knowledge as a Job Seeker specializing in Go Programming
 
 ## Topics
 
@@ -11,6 +12,12 @@ Golang - Job Seeker
 * [Queue](https://github.com/agung96tm/golearn-jobseeker/blob/main/000-data-structures/004-queue)
 * [Binary Tree](https://github.com/agung96tm/golearn-jobseeker/blob/main/000-data-structures/005-binary-tree)
 * [Hashing](https://github.com/agung96tm/golearn-jobseeker/blob/main/000-data-structures/006-hashing)
+
+### Algorithms: Sorting
+* Bubble Sort
+* Merge Sort
+* Quick Sort
+* Binary Search
 
 
 ## Contributors
