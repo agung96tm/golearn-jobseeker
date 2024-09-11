@@ -15,7 +15,7 @@ All essential Topics to enhance our knowledge as a Job Seeker specializing in Go
 
 ### Algorithms: Sorting
 * [Bubble Sort](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/000-sorts/000-bubble-sort)
-* Merge Sort
+* [Merge Sort](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/000-sorts/001-merge-sort)
 * Quick Sort
 * Binary Search
 
