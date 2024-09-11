@@ -8,7 +8,7 @@ Golang - Job Seeker
 * [Doubly Linked List](https://github.com/agung96tm/golearn-jobseeker/blob/main/000-data-structures/001-doubly-linked-list)
 * [Circular Linked List](https://github.com/agung96tm/golearn-jobseeker/blob/main/000-data-structures/002-circular-linked-list)
 * [Stack](https://github.com/agung96tm/golearn-jobseeker/blob/main/000-data-structures/003-stack)
-* Queue
+* [Queue](https://github.com/agung96tm/golearn-jobseeker/blob/main/000-data-structures/004-queue)
 * Binary Tree
 * Hashing
 
