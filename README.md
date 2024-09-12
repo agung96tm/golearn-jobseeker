@@ -24,6 +24,18 @@ All essential Topics to enhance our knowledge as a Job Seeker specializing in Go
 #### Dynamic Programming
 * [Fibonacci](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/001-dynamic-programming/000-fibonacci)
 
+#### Implementations
+* [Migratory Birds](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000000-migratory-birds)
+* [Bill division](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000001-bill-division)
+* [Sales by Matches](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000002-sales-by-matches)
+
+
+### Best Practices
+* WIP
+
+
+### Web Applications
+* WIP
 
 ## Contributors
 * Agung Yuliyanto
