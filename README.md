@@ -13,13 +13,15 @@ All essential Topics to enhance our knowledge as a Job Seeker specializing in Go
 * [Binary Tree](https://github.com/agung96tm/golearn-jobseeker/blob/main/000-data-structures/005-binary-tree)
 * [Hashing](https://github.com/agung96tm/golearn-jobseeker/blob/main/000-data-structures/006-hashing)
 
-### Algorithms: Sorting
+### Algorithms
+
+#### Sorting
 * [Bubble Sort](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/000-sorts/000-bubble-sort)
 * [Merge Sort](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/000-sorts/001-merge-sort)
 * Quick Sort
 * Binary Search
 
-### Algorithms: Dynamic Programming
+#### Dynamic Programming
 * [Fibonacci](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/001-dynamic-programming/000-fibonacci)
 
 
