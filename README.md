@@ -28,6 +28,7 @@ All essential Topics to enhance our knowledge as a Job Seeker specializing in Go
 * [Migratory Birds](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000000-migratory-birds)
 * [Bill division](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000001-bill-division)
 * [Sales by Matches](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000002-sales-by-matches)
+* [Drawing Book](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000003-drawing-book)
 
 
 ### Best Practices
