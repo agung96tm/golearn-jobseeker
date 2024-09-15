@@ -30,6 +30,7 @@ All essential Topics to enhance our knowledge as a Job Seeker specializing in Go
 * [Sales by Matches](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000002-sales-by-matches)
 * [Drawing Book](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000003-drawing-book)
 * [Counting Valleys](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000004-counting-valleys)
+* [Electronics Shop](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000005-electronics-shop)
 
 ### Best Practices
 * WIP
