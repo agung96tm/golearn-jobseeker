@@ -5,7 +5,7 @@ Two cats and a mouse are at various positions on a line. You will be given their
 
 
 * If cat `A` catches the mouse first, print Cat A.
-* If cat `B catches the mouse first, print Cat B.
+* If cat `B` catches the mouse first, print Cat B.
 * If both cats reach the mouse at the same time, print Mouse `C` as the two cats fight and mouse escapes.
 
 ### Example 1
