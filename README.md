@@ -32,6 +32,7 @@ All essential Topics to enhance our knowledge as a Job Seeker specializing in Go
 * [Counting Valleys](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000004-counting-valleys)
 * [Electronics Shop](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000005-electronics-shop)
 * [Two Cats and Mouse](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000006-two-cats-and-mouse)
+* [Picking Numbers](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000007-picking-numbers)
 
 
 ### Best Practices
