@@ -34,6 +34,7 @@ All essential Topics to enhance our knowledge as a Job Seeker specializing in Go
 * [Two Cats and Mouse](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000006-two-cats-and-mouse)
 * [Picking Numbers](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000007-picking-numbers)
 * [Climbing the Leaderboard](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000008-climbing-the-leaderboard)
+* [The Hurdle Race](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000009-the-hurdle-race)
 
 ### Best Practices
 * WIP
