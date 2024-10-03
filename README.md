@@ -35,6 +35,7 @@ All essential Topics to enhance our knowledge as a Job Seeker specializing in Go
 * [Picking Numbers](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000007-picking-numbers)
 * [Climbing the Leaderboard](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000008-climbing-the-leaderboard)
 * [The Hurdle Race](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000009-the-hurdle-race)
+* [The Designer PDF Viewer](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000010-designer-pdf-viewer)
 
 ### Best Practices
 * WIP
