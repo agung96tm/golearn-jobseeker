@@ -38,6 +38,7 @@ All essential Topics to enhance our knowledge as a Job Seeker specializing in Go
 * [The Designer PDF Viewer](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000010-designer-pdf-viewer)
 * [Utopian Tree](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000011-utopian-tree)
 * [Angry Professor](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000012-angry-professor)
+* [Beautiful Days at the Movies](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000013-beauty-days-at-the-movie)
 
 ### Best Practices
 * WIP
