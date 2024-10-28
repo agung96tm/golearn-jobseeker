@@ -40,6 +40,8 @@ All essential Topics to enhance our knowledge as a Job Seeker specializing in Go
 * [Angry Professor](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000012-angry-professor)
 * [Beautiful Days at the Movies](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000013-beauty-days-at-the-movie)
 * [Viral Advertising](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000014-viral-advertising)
+* [Save the Prisoner!](https://github.com/agung96tm/golearn-jobseeker/blob/main/001-algorithms/002-implementation/000015-save-the-prisoner)
+
 
 ### Best Practices
 * WIP
